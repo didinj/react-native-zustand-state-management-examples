@@ -1,6 +1,6 @@
 # Using Zustand in React Native: Lightweight State Management Done Right
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68e0a9e01cbb3805f6ae8609/using-zustand-in-react-native-lightweight-state-management-done-right).
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
