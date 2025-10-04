@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Using Zustand in React Native: Lightweight State Management Done Right
+
+Read the full tutorial [here]().
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
